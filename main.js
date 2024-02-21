@@ -8,5 +8,5 @@ botoes[i].onclick = function(){
   }
 
   botoes[i].classList.ad("ativo");
-}
+   }
 }
