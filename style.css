@@ -33,7 +33,7 @@ body {
 }
 
 .titulo-principal span {
-    color: var(--Blue);
+    color: var(--Yellow);
 }
 
 
@@ -63,7 +63,7 @@ body {
 
 .botao.ativo{
     background-color: var(--botao-ativo);
-    border-bottom: 4px solid var(--Blue);
+    border-bottom: 4px solid var(--Yellow);
 }
 
 .abas-textos{
@@ -85,7 +85,7 @@ body {
 }
 .aba-conteudo-titulo-secundario{
     text-align: center;
-    color: var(--Blue);
+    color: var(--Yellow);
     text-transform: uppercase;
 }
 
@@ -107,7 +107,7 @@ body {
 }
 
 .contador-digito-texto{
-    color: var(--Blue);
+    color: var(--Yellow);
     font-size: 20px;
     margin: 0;
 
